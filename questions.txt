@@ -1,0 +1,8 @@
+1)which is one of the most versatile programing language?
+a)c 	b)java	c)python	d)none of these
+2)which is one of the wifi router manufacturing company?
+a)apple		b)dlink		c)nokia	d)none of these
+3)which division of a company does all research in a company?
+a)finance	b)accounting	c)research&development	d)none of these
+4)which programming language is used for automation?
+a)shellscripting	b)c	c)unix	d)none of these 
